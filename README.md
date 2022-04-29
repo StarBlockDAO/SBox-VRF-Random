@@ -12,11 +12,11 @@ We also have an array of sboxes, which will be open on the github and discord be
 
 ## How to obtain 'contractRandomSeed'
 
-Every week we will use our contract (verified on etherscan, check links below) and create a SBOX RANDOM SEED for that week.
+Every random we will use our contract (verified on etherscan, check links below) and create a SBOX RANDOM SEED.
 
 This transaction cannot be manipulated and it uses [ChainLink VRF](https://docs.chain.link/docs/chainlink-vrf/).
 
-You can use Etherscan to obtain weekly random seed.
+You can use Etherscan to obtain every random seed.
 
 ## Notes
 
