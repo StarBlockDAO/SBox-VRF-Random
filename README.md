@@ -1,4 +1,4 @@
-# SBOX VRF Random
+# SBox VRF Random
 
 
 This code will generate an array of winners like:
